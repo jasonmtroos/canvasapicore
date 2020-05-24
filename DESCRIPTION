@@ -14,3 +14,11 @@ Language: en-US
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
+Imports: 
+    stringr,
+    cnvs (>= 0.0.1.9000),
+    magrittr
+Remotes: 
+    cwickham/cnvs
+Suggests: 
+    testthat
