@@ -1,0 +1,16 @@
+Package: canvasapicore
+Title: Low-Level Utilities for Accessing the Canvas API
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jason",
+           family = "Roos",
+           role = c("aut", "cre"),
+           email = "my_first_initial_and_last_name@rsm.nl",
+           comment = c(ORCID = "0000-0001-9764-5128"))
+Description: Provides low-level utilities for accessing the canvas API.
+License: CC BY 4.0
+Encoding: UTF-8
+Language: en-US
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
